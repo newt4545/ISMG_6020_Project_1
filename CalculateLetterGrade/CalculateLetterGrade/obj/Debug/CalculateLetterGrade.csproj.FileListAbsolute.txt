@@ -1,0 +1,10 @@
+C:\Users\Adam\Desktop\DOTNET Class\Project_1\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\Adam\Desktop\DOTNET Class\Project_1\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\Adam\Desktop\DOTNET Class\Project_1\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\Adam\Desktop\DOTNET Class\Project_1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\DOTNET Class\Project_1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\Adam\Desktop\DOTNET Class\Project_1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\Adam\Desktop\DOTNET Class\Project_1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\Adam\Desktop\DOTNET Class\Project_1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\DOTNET Class\Project_1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\Adam\Desktop\DOTNET Class\Project_1\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
